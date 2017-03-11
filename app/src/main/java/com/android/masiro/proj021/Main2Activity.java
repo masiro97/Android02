@@ -15,7 +15,7 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-
+        setTitle("나이 계산");
         b1 = (Button)findViewById(R.id.b11);
         b2 = (Button)findViewById(R.id.b12);
 

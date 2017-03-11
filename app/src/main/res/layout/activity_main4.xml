@@ -106,7 +106,7 @@ tools:context="com.android.masiro.proj021.Main4Activity">
             android:text="주문개수" />
 
         <TextView
-            android:id="@+id/textt9"
+            android:id="@+id/textView9"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:textSize ="20sp"
@@ -128,7 +128,7 @@ tools:context="com.android.masiro.proj021.Main4Activity">
             android:text="주문금액" />
 
         <TextView
-            android:id="@+id/text11"
+            android:id="@+id/textView11"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:textSize ="20sp"

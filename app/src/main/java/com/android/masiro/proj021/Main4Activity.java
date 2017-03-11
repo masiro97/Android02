@@ -21,14 +21,14 @@ public class Main4Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main4);
-
+        setTitle("레스토랑메뉴주문");
         b1 =(Button)findViewById(R.id.b31);
         e1 = (EditText)findViewById(R.id.editText5);
         e2 = (EditText)findViewById(R.id.editText6);
         e3 = (EditText)findViewById(R.id.editText7);
         c1 = (CheckBox)findViewById(R.id.checkBox);
-        t1 = (TextView)findViewById(R.id.textt9);
-        t2 = (TextView)findViewById(R.id.text11);
+        t1 = (TextView)findViewById(R.id.textView9);
+        t2 = (TextView)findViewById(R.id.textView11);
 
 
 
